@@ -1,0 +1,441 @@
+{
+  "processed_files": [
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [
+        "microsoft/phi-2"
+      ],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T15:47:36.132890",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [
+        "microsoft/phi-2"
+      ],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T15:49:03.229232",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [
+        "microsoft/phi-2"
+      ],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T15:49:32.677268",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [
+        "microsoft/phi-2"
+      ],
+      "video_paths": [],
+      "processing_time": 34,
+      "timestamp": "2025-06-11T19:15:24.868688",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T20:18:04.845874",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T20:19:47.110959",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T20:25:10.930600",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T20:27:30.737208",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T20:40:47.046089",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T20:45:30.750724",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T21:07:13.895419",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T21:14:41.256185",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T21:38:25.772086",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T21:39:45.902551",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T21:50:37.814486",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:23:43.519279",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:32:09.958157",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:33:53.685841",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:38:04.804847",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:40:03.760329",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:47:43.247576",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:48:53.963890",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:54:41.574817",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:56:01.734542",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T22:57:01.608324",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T23:03:40.546554",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-11T23:05:01.497610",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-12T00:04:51.858262",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Downloads/test-formationMetier.pdf",
+      "file_name": "test-formationMetier.pdf",
+      "models_used": [],
+      "video_paths": [
+        "C:\\Users\\ThinkPad\\Desktop\\plateform\\python\\html_styled_videos\\test-formationMetier_microsoft-phi-2.mp4"
+      ],
+      "processing_time": 0,
+      "timestamp": "2025-06-12T00:43:16.567068",
+      "file_size": 382685,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW-Formation Métiers (1).pdf",
+      "file_name": "TW-Formation Métiers (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-14T15:42:51.862966",
+      "file_size": 1914231,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW-Formation Métiers (1).pdf",
+      "file_name": "TW-Formation Métiers (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-14T15:46:56.145941",
+      "file_size": 1914231,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW Formation-Prestation_V2 (1).pdf",
+      "file_name": "TW Formation-Prestation_V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T11:03:11.314666",
+      "file_size": 4080598,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW_Formation GA EKIP360 - V2 (1).pdf",
+      "file_name": "TW_Formation GA EKIP360 - V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T18:17:15.645280",
+      "file_size": 4131936,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW_facturation_EKIP360.pdf",
+      "file_name": "TW_facturation_EKIP360.pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T18:19:24.132929",
+      "file_size": 3757349,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW Formation-Prestation_V2 (1).pdf",
+      "file_name": "TW Formation-Prestation_V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T18:23:03.292601",
+      "file_size": 4080598,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW Formation-Prestation_V2 (1).pdf",
+      "file_name": "TW Formation-Prestation_V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T18:25:08.296204",
+      "file_size": 4080598,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW Formation-Prestation_V2 (1).pdf",
+      "file_name": "TW Formation-Prestation_V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T19:14:25.259985",
+      "file_size": 4080598,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW Formation-Prestation_V2 (1).pdf",
+      "file_name": "TW Formation-Prestation_V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T19:15:54.531946",
+      "file_size": 4080598,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW Formation-Prestation_V2 (1).pdf",
+      "file_name": "TW Formation-Prestation_V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T19:19:17.464950",
+      "file_size": 4080598,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW Formation-Prestation_V2 (1).pdf",
+      "file_name": "TW Formation-Prestation_V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T19:28:45.108087",
+      "file_size": 4080598,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/TW Formation-Prestation_V2 (1).pdf",
+      "file_name": "TW Formation-Prestation_V2 (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-16T19:31:42.743267",
+      "file_size": 4080598,
+      "file_type": ".pdf"
+    },
+    {
+      "file_path": "C:/Users/ThinkPad/Desktop/TR__Formations_EKIP_/Documentation paramétrage de prestation (1).pdf",
+      "file_name": "Documentation paramétrage de prestation (1).pdf",
+      "models_used": [],
+      "video_paths": [],
+      "processing_time": 0,
+      "timestamp": "2025-06-17T09:54:09.317221",
+      "file_size": 3615199,
+      "file_type": ".pdf"
+    }
+  ],
+  "model_performance": {},
+  "deep_learning_enabled": false,
+  "improvement_level": 4,
+  "total_videos_generated": 1,
+  "user_preferences": {},
+  "learning_patterns": [],
+  "fusion_mode_enabled": true
+}

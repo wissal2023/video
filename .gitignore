@@ -1,0 +1,6 @@
+.env
+envmnt/
+*.mp4
+*.pptx
+*.mp3
+__pycache__
